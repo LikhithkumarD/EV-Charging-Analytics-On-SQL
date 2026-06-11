@@ -21,9 +21,8 @@ This project analyzes EV charging station performance across multiple cities.
 
 ![Top Customers](images/top_customers.png)
 
-## Peak Charging Hours
-
-![Peak Charging Hours](images/peak_hours.png)
+## Peak charging stations
+![Top Customers](images/Peak_charging_station.png)
 
 ## Total energy consumed by station
 
